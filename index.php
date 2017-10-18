@@ -69,6 +69,7 @@ input[type=text] {
 </style>
 </head>
 <body>
+	<br>
 <p id="tmp"></p>
 <div class="fixed"><?php
 /*error_reporting(E_ALL);
